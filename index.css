@@ -1,0 +1,59 @@
+body {
+    background-color: #111
+}
+.everything {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+.buttonsHolder {
+    display: flex;
+    justify-content: center;
+
+}
+.buttons {
+    
+    background-color: #FFFFFF;
+    border: 1px solid #222222;
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: #222222;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 20px;
+    outline: none;
+    padding: 13px 23px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    width: auto;
+    
+}
+.scoreboard {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+.text {
+    color: white;
+    justify-content: center;
+    text-align: center;
+    font-size: 5vh;
+
+}
+.text1 {
+    color: white;
+    justify-content: center;
+    text-align: center;
+    font-size: 8vh;
+
+}
